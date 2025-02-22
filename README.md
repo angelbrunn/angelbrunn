@@ -2,12 +2,8 @@
 angelbrunn/angelbrunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  Hi, &lt;I'm Kuma Akai from Argentina 🇦🇷❤️/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
-<br />
+<h1 align="center">Hi, I'm Kuma Akai</h1>
+<h3 align="center">A passionate blockchain developer from Argentina 🇦🇷❤️/&gt</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Investing+the+best+wei;to+shape+the+of+ether." alt="Headline" />
 
