@@ -2,7 +2,7 @@
 angelbrunn/angelbrunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchain technology and the crypto world.
+<h3 align="center"><b>Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchain technology and the crypto world. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <br />
 <br />
 - 🔭 I’m currently working on blockchain-based projects, especially in the crypto space
