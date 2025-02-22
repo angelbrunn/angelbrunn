@@ -6,6 +6,7 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
 <br />
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Investing+the+best+wei;to+shape+the+of+ether." alt="Headline" />
+
 - 🔭 I’m currently working on blockchain-based projects, especially in the crypto space
 - 🌱 I’m currently learning more about advanced JavaScript concepts, focusing on blockchain integration and decentralized applications (dApps).
 - 👯 I’m looking to collaborate on decentralized applications (dApps), smart contracts, and blockchain solutions
