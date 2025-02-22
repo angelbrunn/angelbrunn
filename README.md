@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   
 - 📫 How to reach me: cryptoakain@gmail.com
 
-<h3 align="left">Something about me:</h3>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Something about me:
 * 2010 to 2020: I focused on my degree in Engineering while working at various multinational companies, developing software.<br /> 
 * 2020: Founding team of the startup <a href="https://www.naranjax.com/" target="_blank">Nx</a>.<br />
 * 2021: Founding team of the startup <a href="https://www.treinta.co/" target="_blank">Treinta Inc</a>,Y Combinator (YC W21) - Series A funding round of $65 million.<br /> 
