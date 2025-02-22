@@ -3,9 +3,7 @@ angelbrunn/angelbrunn is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchain technology and the crypto world.
-
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Investing+the+best+wei;to+shape+the+of+ether" alt="Headline" />
-
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Investing+the+best+wei;to+shape+the+of+ether." alt="Headline" />
 <br />
 <br />
 - 🔭 I’m currently working on blockchain-based projects, especially in the crypto space
