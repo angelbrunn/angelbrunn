@@ -6,15 +6,14 @@ You can click the Preview link to take a look at your changes.
 Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchain technology and the crypto world.
 <br />
 <br />
-
 - 🔭 I’m currently working on blockchain-based projects, especially in the crypto space
 - 🌱 I’m currently learning more about advanced JavaScript concepts, focusing on blockchain integration and decentralized applications (dApps).
 - 👯 I’m looking to collaborate on decentralized applications (dApps), smart contracts, and blockchain solutions
 - 💬 Ask me about anything
 - 📫 How to reach me: cryptoakain@gmail.com
-
+<br />
+<br />
 **Main languages:**
-
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -22,11 +21,11 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="24" src="https://avatars.githubusercontent.com/u/6250754?s=48&v=4"></code>
-
-
+<br />
+<br />
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+<div style="display: flex !important; justify-content: space-between !important; width: 100%; align-items: center;">
     <a href="https://github.com/angelbrunn">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelbrunn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
@@ -34,4 +33,5 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelbrunn&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </div>
-
+<br />
+<br />
