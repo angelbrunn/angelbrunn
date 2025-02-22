@@ -3,22 +3,25 @@ angelbrunn/angelbrunn is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi, I'm Kuma Akai</h1>
-<h3 align="center">A passionate blockchain developer from Argentina 🇦🇷❤️/&gt</h3>
+<h3 align="center">A passionate blockchain developer from Argentina 🇦🇷❤️</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Investing+the+best+wei;to+shape+the+of+ether." alt="Headline" />
 
-<pre>
 - 🔭 I’m currently working on blockchain-based projects, especially in the crypto space
-- 🌱 I’m currently learning more about advanced JavaScript concepts, focusing on blockchain integration and decentralized applications (dApps).
+
+- 🤝 I’m available for freelancing.
+
 - 👯 I’m looking to collaborate on decentralized applications (dApps), smart contracts, and blockchain solutions
+- 
 - 💬 Ask me about anything
+- 
 - 📫 How to reach me: cryptoakain@gmail.com
-</pre>
+
 Something about me:<br />
 2010 to 2020: I focused on my degree in Engineering while working at various multinational companies, developing software.<br /> 
-2020: Founding team of the startup nx.<br />
-2021: Founding team of the startup Treinta Inc,Y Combinator (YC W21) - Series A funding round of $65 million.<br /> 
-Currently: Founding team of the startup Glim, where I once again created everything from scratch, developing 35 productive microservices, 3 web products, and a wallet—all hosted on AWS. We provide 24/7 services to two countries, Colombia and Mexico, and aim to expand fintech and crypto usage throughout South America.<br />
+2020: Founding team of the startup <a href="https://www.naranjax.com/" target="_blank">nx</a>.<br />
+2021: Founding team of the startup <a href="https://www.treinta.co/" target="_blank">Treinta Inc.</a>,Y Combinator (YC W21) - Series A funding round of $65 million.<br /> 
+Currently: Founding team of the startup <a href="https://getglim.com/" target="_blank">Glim</a>, where I once again created everything from scratch, developing 35 productive microservices, 3 web products, and a wallet—all hosted on AWS. We provide 24/7 services to two countries, Colombia and Mexico, and aim to expand fintech and crypto usage throughout South America.<br />
 
 
 **Main languages:**
