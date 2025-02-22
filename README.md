@@ -11,7 +11,9 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
 - 💬 Ask me about anything
 - 📫 How to reach me: cryptoakain@gmail.com
 <br />
+
 **Main languages:**
+
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -21,6 +23,7 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
 <code><img height="24" src="https://avatars.githubusercontent.com/u/6250754?s=48&v=4"></code>
 <br />
 <br />
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
