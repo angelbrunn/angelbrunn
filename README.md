@@ -27,8 +27,10 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/angelbrunn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelbrunn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelbrunn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/angelbrunn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelbrunn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&v=1"/>
+  </a>
+  <a href="https://github.com/angelbrunn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelbrunn&layout=compact&langs_count=8&theme=algolia&v=1"/>
+  </a>
 </p>
