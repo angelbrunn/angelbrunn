@@ -2,7 +2,6 @@
 angelbrunn/angelbrunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br />
 Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchain technology and the crypto world.
 <br />
 <br />
@@ -25,7 +24,7 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
 <br />
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex !important; justify-content: space-between !important; width: 100%; align-items: center;">
+<div>
     <a href="https://github.com/angelbrunn">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angelbrunn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
@@ -33,5 +32,3 @@ Hi, I'm Kuma Akai from Argentina, a Software Engineer passionate about blockchai
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angelbrunn&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </div>
-<br />
-<br />
