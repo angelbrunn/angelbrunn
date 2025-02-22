@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi, I'm Kuma Akai</h1>
 <h3 align="center">A passionate blockchain developer from Argentina 🇦🇷❤️</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Investing+the+best+wei;to+shape+the+of+ether." alt="Headline" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Investing+the+best+wei;shape+of+ether."></a>
+</p>
 
 - 🔭 I’m currently working on blockchain
 
