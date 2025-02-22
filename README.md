@@ -3,9 +3,12 @@ angelbrunn/angelbrunn is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=
-I+am+Kuma+Akai+from+Argentina..&hearts;++;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Kuma+Akai+from+Argentina%2C+a+Software+Engineer+passionate+about+blockchain+technology+and+the+crypto+world">
+  </a>
 </p>
+<br />
+<br />
 
 
 
