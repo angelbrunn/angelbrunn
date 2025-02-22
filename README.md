@@ -9,15 +9,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on blockchain-based projects, especially in the crypto space
 
-- 🤝 I’m available for freelancing.
-
 - 👯 I’m looking to collaborate on decentralized applications (dApps), smart contracts, and blockchain solutions
-- 
+
 - 💬 Ask me about anything
-- 
+  
 - 📫 How to reach me: cryptoakain@gmail.com
 
-Something about me:<br />
+<h3 align="left">Something about me:</h3>
 2010 to 2020: I focused on my degree in Engineering while working at various multinational companies, developing software.<br /> 
 2020: Founding team of the startup <a href="https://www.naranjax.com/" target="_blank">nx</a>.<br />
 2021: Founding team of the startup <a href="https://www.treinta.co/" target="_blank">Treinta Inc.</a>,Y Combinator (YC W21) - Series A funding round of $65 million.<br /> 
