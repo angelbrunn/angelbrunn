@@ -34,20 +34,12 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-> [!NOTE]
-> Esta es una nota con información relevante.
+> [!NOTE]  
+> I spend many hours dedicated to the startup where I work. I apologize for not having much time currently.  
 
-> [!TIP]
-> Este es un consejo útil para mejorar tu experiencia.
+> [!IMPORTANT]  
+> I will be training in Ethereum libraries (I have them forked).  
 
-> [!IMPORTANT]
-> Este dato es fundamental, no lo ignores.
-
-> [!WARNING]
-> ⚠️ Ten cuidado, puede causar errores.
-
-> [!CAUTION]
-> ⚠️ Precaución, revisa antes de continuar.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
