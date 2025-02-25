@@ -34,6 +34,21 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
+> [!NOTE]
+> Esta es una nota con información relevante.
+
+> [!TIP]
+> Este es un consejo útil para mejorar tu experiencia.
+
+> [!IMPORTANT]
+> Este dato es fundamental, no lo ignores.
+
+> [!WARNING]
+> ⚠️ Ten cuidado, puede causar errores.
+
+> [!CAUTION]
+> ⚠️ Precaución, revisa antes de continuar.
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
